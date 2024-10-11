@@ -6,9 +6,9 @@
 
 <h3 align="center">Connect with me: </h3>
 <p align="center">
-        <a href="https://joshualynchportfolio.netlify.app/" target=""blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2720/2720550.png" alt="Joshua Lynch Portfolion" height="60" width="60"/></a>
+        <a href="https://joshualynchportfolio.netlify.app/" target=""blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2720/2720550.png" alt="Joshua Lynch Portfolio" height="60" width="60"/></a>
         My portfolio
-        <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Joshua Lynch LinkedIn" height="60" width="80" /></a>
+        <a href="https://ca.linkedin.com/in/josh-lynch-8b36242b3?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Joshua Lynch LinkedIn" height="60" width="80" /></a>
         LinkedIn
 </p>
 
