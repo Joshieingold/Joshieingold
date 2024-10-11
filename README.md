@@ -43,7 +43,7 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshieingold" alt="JoshieInGold Github Trophies" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshieingold" alt="JoshieInGold Github Trophies" width="725"/></a> </p>
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshieingold&theme=dark&show_icons=true&title_color=ff8e15&text_color=ffffff&locale=en&layout=compact" alt="JoshieInGold Most Used Langauges" /> 
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshieingold&theme=dark" alt="Joshieingold Activity Dashboard" height="165"/>
