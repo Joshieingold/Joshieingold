@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Josh</h1>
 <h3 align="center">A Self Taught Software Developer</h3>
 
-<p align="center">🌱 I’m currently learning Java, C#, SQLite</p>
-<p align="center">📫 Reach me by email at JoshLynch2001@gmail.com</p>
+<p align="center"> I’m currently learning Java, C#, and SQLite</p>
+<p align="center"> Reach me by email at JoshLynch2001@gmail.com</p>
 
 <h3 align="center">Connect with me: </h3>
 <p align="center">
