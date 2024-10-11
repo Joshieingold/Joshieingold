@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm Josh</h1>
 <h3 align="center">A Self Taught Software Developer</h3>
 
-- Check out my portfolio at 
 - 🌱 I’m currently learning Java, C#, SQLite**
 - 📫 Reach me by email at **joshlynch2001@gmail.com**
 
