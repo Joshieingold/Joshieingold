@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Josh</h1>
+<h1 align="center">I'm Josh</h1>
 <h3 align="center">A Self Taught Software Developer</h3>
 
 <p align="center"> I’m currently learning Java, C#, and SQLite</p>
