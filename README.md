@@ -1,24 +1,19 @@
 <h1 align="center">Hello, I'm Josh</h1>
 <h3 align="center">A Self Taught Software Developer</h3>
 
-- 🌱 I’m currently learning Java, C#, SQLite**
-- 📫 Reach me by email at **joshlynch2001@gmail.com**
+<p align="center">🌱 I’m currently learning Java, C#, SQLite</p>
+<p align="center">📫 Reach me by email at JoshLynch2001@gmail.com</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <p>
-        <a href="https://joshualynchportfolio.netlify.app/" target=""blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2720/2720550.png" alt="Joshua Lynch Portfolion" height="30" width="30"/></a>
+<h3 align="center">Connect with me: </h3>
+<p align="center">
+        <a href="https://joshualynchportfolio.netlify.app/" target=""blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2720/2720550.png" alt="Joshua Lynch Portfolion" height="60" width="60"/></a>
         My portfolio
-    </p>
-    <p>
-        <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Joshua Lynch LinkedIn" height="30" width="40" /></a>
+        <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Joshua Lynch LinkedIn" height="60" width="80" /></a>
         LinkedIn
-    </p>
-    
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
     <!-- Bash -->
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
      <!-- CSS -->
@@ -43,8 +38,8 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshieingold" alt="JoshieInGold Github Trophies" width="725"/></a> </p>
-<p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshieingold" alt="JoshieInGold Github Trophies" width="725"/></a> </p>
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshieingold&theme=dark&show_icons=true&title_color=ff8e15&text_color=ffffff&locale=en&layout=compact" alt="JoshieInGold Most Used Langauges" /> 
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshieingold&theme=dark" alt="Joshieingold Activity Dashboard" height="165"/>
 </p>
