@@ -2,7 +2,7 @@
 <h3 align="center">A Self Taught Software Developer</h3>
 <p align="center"> I’m currently working on a C# Chess PGN Viewing Software</p>
 <p align="center"> I’m currently learning data structures & algorithms.</p>
-<p align="center"> Reach me by email at JoshLynch2001@gmail.com </p>
+<p align="center"> Reach me by email at JoshLynch2001@gmail.com</p>
 
 <h3 align="center">View my Portfolio Here: </h3>
 <p align="center">
@@ -34,7 +34,7 @@
     <!-- TypeScript -->
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
     <!-- Firebase -->
-        <a href="https://firebase.google.com/support/faq" target="_blank" rel="noreferrer"> <img src='https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg' alt="firebase" width="40" height="40"/> </a>
+    <a href="https://firebase.google.com/support/faq" target="_blank" rel="noreferrer"> <img src='https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg' alt="firebase" width="40" height="40"/> </a>
 </p>
 
 
