@@ -4,11 +4,6 @@
 <p align="center"> I’m currently learning data structures & algorithms, c++, and machine learning.</p>
 <p align="center"> Reach me by email at JoshLynch2001@gmail.com</p>
 
-<h3 align="center">View my Portfolio Here: </h3>
-<p align="center">
-        <a href="https://joshieingold.github.io/Portfolio25/" target=""blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2720/2720550.png" alt="Joshua Lynch Portfolio" height="60" width="60"/></a>
-</p>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
     <!-- Bash -->
