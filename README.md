@@ -1,7 +1,6 @@
 <h1 align="center">I'm Josh</h1>
 <h3 align="center">A Self Taught Software Developer</h3>
-<p align="center"> Not sure why my most used languages is 90% python now </p>
-<p align="center"> I’m currently learning data structures & algorithms, c++, and machine learning.</p>
+<p align="center"> I’m currently studying Software Development at NBCC.</p>
 <p align="center"> Reach me by email at JoshLynch2001@gmail.com</p>
 
 <h3 align="center">Languages and Tools:</h3>
