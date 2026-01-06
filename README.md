@@ -1,6 +1,6 @@
 <h1 align="center">I'm Josh</h1>
 <h2 align="center"> I’m currently studying Software Development at NBCC.</h2>
-<p align="center"> Reach me by email at JoshLynch2001@gmail.com</p>
+<p align="center"> Reach me by email at <a href="mailto:joshlynch2001@gmail.com>JoshLynch2001@gmail.com</a></p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
