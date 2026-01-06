@@ -1,6 +1,5 @@
 <h1 align="center">I'm Josh</h1>
-<h3 align="center">A Self Taught Software Developer</h3>
-<p align="center"> I’m currently studying Software Development at NBCC.</p>
+<h2 align="center"> I’m currently studying Software Development at NBCC.</h2>
 <p align="center"> Reach me by email at JoshLynch2001@gmail.com</p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -32,11 +31,4 @@
 
 </p>
 
-
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshieingold&theme=transparent&show_icons=true&title_color=4169E1&text_color=4169E1&locale=en&layout=compact" alt="JoshieInGold Most Used Langauges" /> 
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshieingold&theme=transparent" alt="Joshieingold Activity Dashboard" height="165"/>
-</p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshieingold&theme=darkhub" alt="JoshieInGold Github Trophies" width="725"/></a> </p>
 
